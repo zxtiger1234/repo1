@@ -7,6 +7,6 @@ public class FirstClass {
 
     public void test(){
         System.out.println("helloworld");
-        System.out.println("我好帅!");
+        System.out.println("我好帅");
     }
 }
